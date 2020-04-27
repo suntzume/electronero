@@ -9,3 +9,15 @@
 [submodule "external/rapidjson"]
 	path = external/rapidjson
 	url = https://github.com/electronero/rapidjson
+[submodule "electronero"]
+	path = electronero
+	url = https://github.com/electronero/electronero
+[submodule "litenero"]
+	path = litenero
+	url = https://github.com/litenero/litenero
+[submodule "electroneropulse"]
+	path = electroneropulse
+	url = https://github.com/electronero-pulse/electroneropulse
+[submodule "goldnero"]
+	path = goldnero
+	url = https://github.com/goldnero/goldnero
